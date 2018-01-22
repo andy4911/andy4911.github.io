@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Cazenove's Blog
+subtitle: Objective-c and Swift
+# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+# description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -36,12 +36,12 @@ comment:
     # duoshuo: 
     
 # Social
-social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+# social:
+    # weibo: onevcat
+    # github: onevcat
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    # mail: onev@onevcat.com
 
 # Google Analytics
 ga:
