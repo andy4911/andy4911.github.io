@@ -1,5 +1,3 @@
-# class和static
-
 ## 概念
 > static和class，在Swift中表示 “类型范围作用域” 这一概念
 

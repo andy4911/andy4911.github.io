@@ -1,5 +1,3 @@
-# Autoreleasepool
-
 ## autoreleasepool结构
 
 autoreleasepool实际上是由一串AutoreleasePoolPage组成的链式结构。
